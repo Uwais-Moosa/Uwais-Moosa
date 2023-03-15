@@ -41,4 +41,4 @@ If you want to learn more about my projects, or just chat about tech, feel free 
 
 ### **📝 Check out my medium page**
 
-I occasionnally write about my experiences learning how to become a Software Developer on **[Medium] (https://medium.com/@uwais.moosa77)**
+I occasionnally write about my experiences learning how to become a Software Developer on **[Medium](https://medium.com/@uwais.moosa77/)**
