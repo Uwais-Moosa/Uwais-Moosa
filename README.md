@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## **Hi there, I'm Uwais 👋**
 
-I am an aspiring software engineer working in the civil service, and currently studying to break into tech. I recently completed Colt Steele's Udemy course and I am currently studying the full-stack Codecademy path.
+I am an aspiring software engineer working in the civil service, and currently studying to break into tech. I am currently studying the full-stack Codecademy path.
 
 ### **🚀 What I'm currently working on**
 
@@ -26,10 +26,10 @@ I am currently working on building a ecommerce app, using ReactJs, Redux Toolkit
 
 I have experience with the following technologies and tools:
 
-- Front-end: HTML, CSS, JavaScript, ReactJs
-- Back-end: PostGre, Python, Ruby
+- Front-end: HTML, CSS, JavaScript, ReactJs (Learning)
+- Back-end: PostGre, Python, Ruby (Learning)
 - Tools: Git, GitHub
-- Other: Agile Methodologies, Scrum, JIRA
+- Other: Agile Methodologies, Scrum, JIRA (Learning)
 
 ### **🌱 What I'm learning**
 
