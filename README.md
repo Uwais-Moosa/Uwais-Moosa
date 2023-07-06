@@ -20,7 +20,7 @@ I am an aspiring software engineer working in the civil service, and currently s
 
 ### **🚀 What I'm currently working on**
 
-I am currently working on building a ecommerce app, using ReactJs, Redux Toolkit, and Firebase. I already have a few landing pages and websites ready to be pushed on GitHub.
+I am currently working on my application for Founders and Coders.
 
 ### **🔧 Technologies & Tools**
 
@@ -28,7 +28,7 @@ I have experience with the following technologies and tools:
 
 - Front-end: HTML, CSS, JavaScript, ReactJs (Learning)
 - Back-end: PostGre, Python, Ruby (Learning)
-- Tools: Git, GitHub
+- Tools: Git, GitHub (Learning)
 - Other: Agile Methodologies, Scrum, JIRA (Learning)
 
 ### **🌱 What I'm learning**
