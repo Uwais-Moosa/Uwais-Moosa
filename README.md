@@ -20,14 +20,14 @@ I am an aspiring software engineer working in the civil service, and currently s
 
 ### **🚀 What I'm currently working on**
 
-I am currently working on my application for Founders and Coders.
+I am currently working on my applications to break into tech, the task is difficult but I am not letting any obstacle deter me from my goal.
 
 ### **🔧 Technologies & Tools**
 
-I have experience with the following technologies and tools:
+I am currently learning the following technologies and tools:
 
 - Front-end: HTML, CSS, JavaScript, ReactJs (Learning)
-- Back-end: PostGre, Python, Ruby (Learning)
+- Back-end: PostGre, Python (Learning)
 - Tools: Git, GitHub (Learning)
 - Other: Agile Methodologies, Scrum, JIRA (Learning)
 
